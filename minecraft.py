@@ -22,7 +22,7 @@ def request(line):
 		if ("AVAILABLE" in status):
 			print(f"{user} is available.")
 			file = open("available.txt", "a")
-			file.write(url + user + "\n")
+			file.write("https://namemc.com/" + user + "\n")
 			file.close()
 		else:
 			print(f"{user} is taken.")
@@ -32,8 +32,9 @@ def request(line):
 
 
 if __name__ == '__main__':
+	print("Checking Minecraft names... Proxies needed.")
 	filename = input("What is the filename?: ")
-	usernames = open(filename)
+	usernames = open(f"wordlist/{filename}")
 	pool = Pool(processes=100)
 	lines = usernames.readlines()
 	results = pool.map(request, lines)
