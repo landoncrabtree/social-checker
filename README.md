@@ -19,3 +19,6 @@ Make the program directory your active/current directory.
   
 It'll then ask for the wordlist, so just enter that:
 > 3char.txt
+
+
+I recommend https://proxy.webshare.io for HTTP(S) proxies. I've used them personally, and the speeds are great and entirely exclusive to oyu.
