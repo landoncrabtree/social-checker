@@ -4,7 +4,7 @@ Bulk check popular social media sites for username avaibility.
 Supports Instagram, Steam Community, Instagram, Minecraft, and GitHub.
 All available names are output to "available.txt". 
 
-> git clone https://github.com/groans/social-checker.git
+> git clone https://github.com/landoncrabtree/social-checker.git
 
 > pip install requests
 
