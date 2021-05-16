@@ -4,21 +4,14 @@ Bulk check popular social media sites for username avaibility.
 Supports Instagram, Steam Community, Instagram, Minecraft, and GitHub.
 All available names are output to "available.txt". 
 
-> git clone https://github.com/landoncrabtree/social-checker.git
-
-> pip install requests
-
-Create a file called "available.txt" in the directory of the program.
-Add HTTPS proxies into "proxies.txt". 
-
-Make the program directory your active/current directory.
-
-> python3 <script>
-(For example, if you want to check GitHub names;
-> python3 github.py
+1. Download social-checker from here: https://github.com/landoncrabtree/social-checker/releases/tag/MAIN-1.0.
+2. Run `pip install requests` or `python3 -m pip install requests` in terminal.
+3. Unzip the file.
+4. Make the unzipped folder your current/active directory.
+5. Add HTTPS proxies into "proxies.txt". 
+6. Start the program by running `python3 <script>`. For example, `python3 instagram.py`
   
-It'll then ask for the wordlist, so just enter that:
-> 3char.txt
+It'll then ask for the wordlist, so just enter that. All wordlists are found in the `wordlists/` directory. You can create your own wordlists. When entering the wordlist, you do **not** need to specify a path/, just enter the file name alone: ie, enter `3char.txt`.
 
 
 I recommend https://proxy.webshare.io for HTTP(S) proxies. I've used them personally, and the speeds are great and entirely exclusive to oyu.
