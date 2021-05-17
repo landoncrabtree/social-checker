@@ -4,9 +4,9 @@ Bulk check popular social media sites for username avaibility.
 Supports Instagram, Steam Community, Instagram, Minecraft, and GitHub.
 All available names are output to "available.txt". 
 
-1. Download social-checker from here: https://github.com/landoncrabtree/social-checker/releases/tag/MAIN-1.0.
+1. Download `social-checker-master.zip` from the releases page.
 2. Run `pip install requests` or `python3 -m pip install requests` in terminal.
-3. Unzip the file.
+3. Unzip the `social-checker-master.zip`.
 4. Make the unzipped folder your current/active directory.
 5. Add HTTPS proxies into "proxies.txt". 
 6. Start the program by running `python3 <script>`. For example, `python3 instagram.py`
