@@ -26,8 +26,7 @@ def main():
 def request(line):
 	proxy = getWorkingProxy()
 	proxies = {
-		"http": "http://" + proxy,
-		"https": "https://" + proxy
+		"http": "http://" + proxy
 	}
 	url = "https://github.com/"
 	user = line.strip()
