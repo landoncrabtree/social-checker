@@ -9,7 +9,7 @@ proxy_pool = cycle(proxies)
 def getWorkingProxy():
 	proxy = next(proxy_pool)
 	try:
-		r = requests.get("http://ipinfo.io/json", proxies={"http": "http://"+proxy, "https": "https://"+proxy}, timeout=5)
+		r = requests.get("http://ipinfo.io/json", proxies={"http": "http://"+proxy}, timeout=5)
 		return proxy
 	except Exception as e:
 		#proxies.remove(proxy)
