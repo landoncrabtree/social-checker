@@ -1,5 +1,23 @@
 import itertools
 
+"""
+This code is licensed under QPL-1.0.
+
+You CAN:
+- Distribute
+- Modify
+
+You CANNOT:
+- Commercial Use
+
+You MUST:
+- Include copyright
+- Include license
+- Disclose source
+
+Source code can be found here:
+https://git.landon.pw/r/social-checker
+"""
 
 # Character set (Modify to meet your website's requirements)
 
