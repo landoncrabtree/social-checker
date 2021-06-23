@@ -1,7 +1,6 @@
 # social-checker
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/landoncrabtree/social-checker/release/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/landoncrabtree/social-checker/issues/)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/landoncrabtree/social-checker/stargazers/)
+![](https://img.shields.io/github/issues/landoncrabtree/social-checker)
+![](https://img.shields.io/github/stars/landoncrabtree/social-checker)
 
 
 Bulk check popular social media sites for username avaibility. 
