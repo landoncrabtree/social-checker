@@ -1,6 +1,8 @@
 # social-checker
+![](https://img.shields.io/github/downloads/landoncrabtree/social-checker/total)
 ![](https://img.shields.io/github/issues/landoncrabtree/social-checker)
 ![](https://img.shields.io/github/stars/landoncrabtree/social-checker)
+![](https://img.shields.io/badge/license-QPL--1.0-lightgrey)
 
 
 Bulk check popular social media sites for username avaibility. 
