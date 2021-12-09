@@ -17,4 +17,4 @@ All available names are output to "available.txt".
 It'll then ask for the wordlist, so just enter that. All wordlists are found in the `wordlists/` directory. You can create your own wordlists. When entering the wordlist, you do **not** need to specify a path/, just enter the file name alone: ie, enter `3char.txt`.
 
 
-I recommend https://proxy.webshare.io for HTTP(S) proxies. I've used them personally, and the speeds are great and entirely exclusive to oyu.
+I recommend https://proxy.webshare.io for HTTP(S) proxies. I've used them personally, and the speeds are great and entirely exclusive to you.
