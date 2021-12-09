@@ -18,3 +18,6 @@ It'll then ask for the wordlist, so just enter that. All wordlists are found in 
 
 
 I recommend https://proxy.webshare.io for HTTP(S) proxies. I've used them personally, and the speeds are great and entirely exclusive to you.
+
+### Suggestions
+If you have suggestions for websites to be supported, open an Issue and I'll do my best!
